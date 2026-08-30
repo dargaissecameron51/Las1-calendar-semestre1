@@ -1,0 +1,1760 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//LAS1 SALSA S1 2026-2027//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LAS1 SALSA — Semestre 1 2026-2027 (général)
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:a4ebf934-b258-456a-a1ad-ace7db8626c2@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260902T133000
+DTEND;TZID=Europe/Paris:20260902T153000
+SUMMARY:CM1 — UE 12 : Réactions Chimiques
+DESCRIPTION:CM1\n13h30-15h30                                 \nUE 12 : Réactions Chimiques                             \nJM MILLOT
+END:VEVENT
+BEGIN:VEVENT
+UID:89bb5f7c-92d6-46a3-9d87-2dbcd3b6d13e@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260902T154500
+DTEND;TZID=Europe/Paris:20260902T174500
+SUMMARY:CM1 — UE 11 : Ecologie-Environnement-Evolution
+DESCRIPTION:CM1\n15h45-17h45                    \nUE 11 : Ecologie-Environnement-Evolution\n+ projet Voltaire                                              \nJ. DEPAQUIT
+END:VEVENT
+BEGIN:VEVENT
+UID:65c7dbc0-2cd8-4cdd-8137-0e7c255da9ee@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260903T154500
+DTEND;TZID=Europe/Paris:20260903T174500
+SUMMARY:CM2 — UE 11 : Ecologie-Environnement-Evolution
+DESCRIPTION:CM2\n15h45-17h45                            \nUE 11 : Ecologie-Environnement-Evolution\nJ. DEPAQUIT
+END:VEVENT
+BEGIN:VEVENT
+UID:5069732e-7607-4650-a6d1-9c3c7fd92c0a@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260904T133000
+DTEND;TZID=Europe/Paris:20260904T153000
+SUMMARY:CM2 — UE 12 : Réactions Chimiques
+DESCRIPTION:CM2\n13h30-15h30                              \nUE 12 : Réactions Chimiques                             \nJM MILLOT
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb2b3bf-3d60-4009-aa9a-3fa23eeeb307@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260904T154500
+DTEND;TZID=Europe/Paris:20260904T174500
+SUMMARY:CM1 — UE 12 : Mathématiques
+DESCRIPTION:CM1 \n15h45-17h45 \n                                 \nUE 12 : Mathématiques                              \nPIOT O
+END:VEVENT
+BEGIN:VEVENT
+UID:624835d4-1809-4d4b-bfd5-2abba61cad5f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260909T080000
+DTEND;TZID=Europe/Paris:20260909T093000
+SUMMARY:TD1 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD1 \n8h-9h30                                  \nUE 12 : Mathématiques                              \n                                       \nO. PIOT : G1                              \nP.BOUZY: G2             \nI. NABIEV : G3
+END:VEVENT
+BEGIN:VEVENT
+UID:99b9bf19-f0d8-4418-ba20-22d27d26b937@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260909T094500
+DTEND;TZID=Europe/Paris:20260909T111500
+SUMMARY:TD1 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD1\n9h45-11h15                                      \nUE 12 : Mathématiques                              \n                                             \nO. PIOT : G4                              \nP.BOUZY: G5              \nI. NABIEV : G6
+END:VEVENT
+BEGIN:VEVENT
+UID:75d6f0a8-eddb-45f4-aa7f-878adc720df5@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260909T143000
+DTEND;TZID=Europe/Paris:20260909T153000
+SUMMARY:CM1 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM1\n14h30-15h30                                          \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:fd6f2a07-f037-4599-b26c-b1d78bdbfd07@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260910T080000
+DTEND;TZID=Europe/Paris:20260910T093000
+SUMMARY:TD1 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD1\n8h-9h30                               \nUE 12 : Mathématiques                               \n                                            \nI.NABIEV: G7                              \nP.BOUZY: G8
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab30c55-69f7-40f8-b406-3427fa731e81@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260910T133000
+DTEND;TZID=Europe/Paris:20260910T153000
+SUMMARY:CM2 — UE 12 : Mathématiques
+DESCRIPTION:CM2\n13h30-15h30                            \nUE 12 : Mathématiques                              \n\nPIOT O
+END:VEVENT
+BEGIN:VEVENT
+UID:d083de4b-ac07-4e40-a931-24d8ee9fef72@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260910T154500
+DTEND;TZID=Europe/Paris:20260910T174500
+SUMMARY:CM1 — UE 11 : Zoologie
+DESCRIPTION:CM1\n15h45-17h45                         \nUE 11 : Zoologie                             \nRANDRIANAMBININTSOA
+END:VEVENT
+BEGIN:VEVENT
+UID:1883414c-2307-447c-8e29-4c7d05d110db@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260911T080000
+DTEND;TZID=Europe/Paris:20260911T093000
+SUMMARY:TD2 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD2\n8h-9h30                                    \nUE 12 : Mathématiques                              \n                                                                          \nO. PIOT : G3                                         \nI. NABIEV : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:d695ceef-b3f0-4fcd-8bd1-ef64d55cdc4f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260911T094500
+DTEND;TZID=Europe/Paris:20260911T111500
+SUMMARY:TD2 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD2\n9h45-11h15                               \nUE 12 : Mathématiques                              \n                                                                       \nO. PIOT : G6                                        \nI. NABIEV : G8
+END:VEVENT
+BEGIN:VEVENT
+UID:48180ac8-b3b3-418e-a665-fd8c40aa70ec@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260911T133000
+DTEND;TZID=Europe/Paris:20260911T153000
+SUMMARY:CM3 — UE 11 : Ecologie-Environnement-Evolution
+DESCRIPTION:CM3\n13h30-15h30                           \nUE 11 : Ecologie-Environnement-Evolution                             \nJ. DEPAQUIT
+END:VEVENT
+BEGIN:VEVENT
+UID:88c49bbc-d69c-4db5-96cd-8bdd967258fb@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260911T154500
+DTEND;TZID=Europe/Paris:20260911T174500
+SUMMARY:CM2 — UE 11 : Zoologie
+DESCRIPTION:CM2\n15h45-17h45                              \nUE 11 : Zoologie                             \nRANDRIANAMBININTSOA
+END:VEVENT
+BEGIN:VEVENT
+UID:9661a402-e312-4270-a930-a01726aadb23@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260916T080000
+DTEND;TZID=Europe/Paris:20260916T093000
+SUMMARY:TD2 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD2\n8h-9h30                        \nUE 12 : Mathématiques                              \n                                                                                                        \nI. NABIEV : G1                              \nO.PIOT : G2
+END:VEVENT
+BEGIN:VEVENT
+UID:e6471693-8b4f-4241-8305-58430abf4b24@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260916T094500
+DTEND;TZID=Europe/Paris:20260916T111500
+SUMMARY:TD2 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD2\n9h45-11h15                     \nUE 12 : Mathématiques                              \n                                                                                                       \nI. NABIEV : G7 \nO.PIOT: G4
+END:VEVENT
+BEGIN:VEVENT
+UID:85215899-2e64-4a53-a716-e5f3d221765f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260916T133000
+DTEND;TZID=Europe/Paris:20260916T153000
+SUMMARY:CM4 — UE 11 : Ecologie-Environnement-Evolution
+DESCRIPTION:CM4\n13h30-15h30                             \nUE 11 : Ecologie-Environnement-Evolution                                                                                      \nL. VOUTQUENNE
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd37a9c-594b-4bc5-8d50-cf677fb92ac3@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260916T154500
+DTEND;TZID=Europe/Paris:20260916T174500
+SUMMARY:CM3 — UE 12 : Mathématiques
+DESCRIPTION:CM3\n15h45-17h45                          \nUE 12 : Mathématiques                              \n\nPIOT O
+END:VEVENT
+BEGIN:VEVENT
+UID:516719de-f061-4439-a58e-78cabafa9253@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260917T080000
+DTEND;TZID=Europe/Paris:20260917T093000
+SUMMARY:TD3 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD3 \n8h-9h30                                  \nUE 12 : Mathématiques                              \n                                      \nO. PIOT : G1                                        \nI. NABIEV : G3
+END:VEVENT
+BEGIN:VEVENT
+UID:ccdfed5b-7fa6-473e-b3e4-31384b21c990@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260917T094500
+DTEND;TZID=Europe/Paris:20260917T111500
+SUMMARY:TD3 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD3\n9h45-11h15                                      \nUE 12 : Mathématiques                              \n                                           \nO. PIOT : G4                                       \nI. NABIEV : G6
+END:VEVENT
+BEGIN:VEVENT
+UID:0b86e64e-b706-4e8a-a53e-7c2073179b3f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260917T133000
+DTEND;TZID=Europe/Paris:20260917T153000
+SUMMARY:CM5 — UE 11 : Ecologie-Environnement-Evolution
+DESCRIPTION:CM5\n13h30-15h30                                    \nUE 11 : Ecologie-Environnement-Evolution                             \nL. VOUTQUENNE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b5b5a6-66af-4d40-8d99-16277deeb09f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260917T154500
+DTEND;TZID=Europe/Paris:20260917T174500
+SUMMARY:CM3 — UE 11 : Zoologie
+DESCRIPTION:CM3\n15h45 - 17h45                      \nUE 11 : Zoologie                             \nRANDRIANAMBININTSOA
+END:VEVENT
+BEGIN:VEVENT
+UID:e763a8f1-fd02-44cc-902d-a0ea3a4a9fd1@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260918T080000
+DTEND;TZID=Europe/Paris:20260918T093000
+SUMMARY:TD3 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD3\n8h-9h30                              \nUE 12 : Mathématiques                               \n                                              \nO. PIOT : G7                              \nI.NABIEV: G8
+END:VEVENT
+BEGIN:VEVENT
+UID:467b4a79-1358-4b5b-9f70-a08a14d66401@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260918T094500
+DTEND;TZID=Europe/Paris:20260918T111500
+SUMMARY:TD3 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD3\n9h45-11h15                                   \nUE 12 : Mathématiques                              \n                                         \nO. PIOT : G2                                       \nI. NABIEV : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:48cb7fd8-c1db-4d90-9e47-7cd00078288c@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260918T133000
+DTEND;TZID=Europe/Paris:20260918T153000
+SUMMARY:CM6 — UE 11 : Ecologie-Environnement-Evolution
+DESCRIPTION:CM6\n13h30-15h30                            \nUE 11 : Ecologie-Environnement-Evolution                             \nJ. DEPAQUIT
+END:VEVENT
+BEGIN:VEVENT
+UID:c43f3a18-3b1e-419a-b577-a0cd6440a8aa@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260918T154500
+DTEND;TZID=Europe/Paris:20260918T174500
+SUMMARY:CM4 — UE 12 : Mathématiques                               Equations différentielles
+DESCRIPTION:CM4\n15h45-17h45                              \nUE 12 : Mathématiques                               Equations différentielles\nPIOT O
+END:VEVENT
+BEGIN:VEVENT
+UID:b28eb320-b131-4454-9a27-3f1973402cf7@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260923T080000
+DTEND;TZID=Europe/Paris:20260923T093000
+SUMMARY:TD4 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD4 \n8h-9h30                                   \n UE 12 : Mathématiques                              \n                                           \nO. PIOT : G6                                         \nI. NABIEV : G8
+END:VEVENT
+BEGIN:VEVENT
+UID:d5bcd0ea-d9f7-4df1-932c-8830c479ff04@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260923T080000
+DTEND;TZID=Europe/Paris:20260923T100000
+SUMMARY:TD1 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD1\n8h-10h                                  \nUE 11 : 3E                                                                                                             \nJ. DEPAQUIT. : G 4 et 7
+END:VEVENT
+BEGIN:VEVENT
+UID:57e7d469-2bbb-48e7-8fc7-bf4d82ba1609@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260923T094500
+DTEND;TZID=Europe/Paris:20260923T111500
+SUMMARY:TD4 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD4\n9h45-11h15                                    \n UE 12 : Mathématiques                              \n                                           \nO. PIOT : G3                                        \nI. NABIEV : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:15dc6d90-99f6-4c56-979f-ff5a86ca66e1@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260923T101500
+DTEND;TZID=Europe/Paris:20260923T121500
+SUMMARY:TD1 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD1\n10h15-12h15                                    \nUE 11 : 3E                                                                                                        \nJ. DEPAQUIT : G 6 et 8
+END:VEVENT
+BEGIN:VEVENT
+UID:016b2db7-01ca-4c23-83ab-5d544d892cbb@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260923T143000
+DTEND;TZID=Europe/Paris:20260923T153000
+SUMMARY:CM2 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM2\n14h30-15h30                                          \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:dd85a074-6b3f-41de-8edd-060a4611e157@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260923T154500
+DTEND;TZID=Europe/Paris:20260923T174500
+SUMMARY:CM4 — UE 11 : Zoologie
+DESCRIPTION:CM4\n15h45 - 17h45                      \nUE 11 : Zoologie                             \nRANDRIANAMBININTSOA
+END:VEVENT
+BEGIN:VEVENT
+UID:16e46a0a-4c3c-4cb4-bd10-f8e97b6a6d67@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260924T080000
+DTEND;TZID=Europe/Paris:20260924T093000
+SUMMARY:TD4 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD4\n8h-9h30                                \n  UE 12 : Mathématiques    \n                                                                             \nI. NABIEV : G2
+END:VEVENT
+BEGIN:VEVENT
+UID:be034bd8-7f15-45fb-ad2a-0bf6b391a9ee@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260924T080000
+DTEND;TZID=Europe/Paris:20260924T100000
+SUMMARY:TD1 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD1\n8h-10h                              \nUE 11 : 3E                                                                                                            \nJ. DEPAQUIT: G 3 et 5
+END:VEVENT
+BEGIN:VEVENT
+UID:d78ea186-87e4-47db-a25c-0478206e6d22@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260924T094500
+DTEND;TZID=Europe/Paris:20260924T111500
+SUMMARY:TD4 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD4\n9h45-11h15                               \n UE 12 : Mathématiques                              \n                                                                             \nI. NABIEV : G4
+END:VEVENT
+BEGIN:VEVENT
+UID:5fb8185e-5229-4ef6-815f-c3d083bcfac8@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260924T101500
+DTEND;TZID=Europe/Paris:20260924T121500
+SUMMARY:TD1 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD1\n10h15-12h15                       \nUE 11 : 3E                                                                                                            \nJ. DEPAQUIT: G 1 et 2
+END:VEVENT
+BEGIN:VEVENT
+UID:db0959c0-f390-4b65-8f55-7b5f8b3433b7@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260924T133000
+DTEND;TZID=Europe/Paris:20260924T153000
+SUMMARY:CM5 — UE 11 : Zoologie
+DESCRIPTION:CM5\n13h30-15h30                            \nUE 11 : Zoologie\nJ.DEPAQUIT
+END:VEVENT
+BEGIN:VEVENT
+UID:7f5391cc-c3fb-4eb5-8bc2-5e5d22f9a616@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260924T154500
+DTEND;TZID=Europe/Paris:20260924T174500
+SUMMARY:CM3 — UE 12 : Réactions Chimiques
+DESCRIPTION:CM3\n15h45-17h45                                \nUE 12 : Réactions Chimiques                             \nJM MILLOT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4bb94e-593f-4c4f-89ad-fa13dbf4d1da@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260925T133000
+DTEND;TZID=Europe/Paris:20260925T153000
+SUMMARY:CM5 — UE 12 : Mathématiques
+DESCRIPTION:CM5\n13h30-15h30                         \nUE 12 : Mathématiques                              \n\nPIOT O
+END:VEVENT
+BEGIN:VEVENT
+UID:05635604-ff54-4174-9ef8-2a34d1ff1cf7@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260930T080000
+DTEND;TZID=Europe/Paris:20260930T093000
+SUMMARY:TD5 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD5\n8h-9h30                                   \nUE 12 : Mathématiques                                                                                     \nO. PIOT : G6                                          \nI. NABIEV : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:412e7eb9-0b35-4df0-bdac-c1cfe05aac52@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260930T094500
+DTEND;TZID=Europe/Paris:20260930T111500
+SUMMARY:TD5 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD5\n9h45-11h15 \n UE 12 : Mathématiques                                                                                    \nO. PIOT : G8                                          \nI. NABIEV : G7
+END:VEVENT
+BEGIN:VEVENT
+UID:3de744ab-441a-4ab0-9b22-1e3bd048307f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260930T143000
+DTEND;TZID=Europe/Paris:20260930T153000
+SUMMARY:CM3 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM3\n14h30-15h30                                          \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:8be5c223-6f95-45ae-b01f-8199ba191854@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20260930T154500
+DTEND;TZID=Europe/Paris:20260930T174500
+SUMMARY:CM6 — UE 11 : Zoologie
+DESCRIPTION:CM6\n15h45-17h45\n UE 11 : Zoologie \nJ.DEPAQUIT
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5e95e7-c914-42bf-9e5d-166280a509b6@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261001T080000
+DTEND;TZID=Europe/Paris:20261001T093000
+SUMMARY:TD5 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD5\n8h-9h30                                  \nUE 12 : Mathématiques                                                                                \nO.PIOT:  G3   \nI.NABIEV : G4
+END:VEVENT
+BEGIN:VEVENT
+UID:46777c61-065e-4b12-9a80-e44df7bb26d0@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261001T094500
+DTEND;TZID=Europe/Paris:20261001T111500
+SUMMARY:TD5 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD5\n9h45-11h15 \n UE 12 : Mathématiques                                                                                    \nO. PIOT : G1                                          \nI. NABIEV : G2
+END:VEVENT
+BEGIN:VEVENT
+UID:51504f8e-2d33-49ac-8a64-2671105f532e@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261001T133000
+DTEND;TZID=Europe/Paris:20261001T153000
+SUMMARY:CM4 — UE 12 : Réactions Chimiques
+DESCRIPTION:CM4\n13h30-15h30                                \nUE 12 : Réactions Chimiques                             \nJM MILLOT
+END:VEVENT
+BEGIN:VEVENT
+UID:637ab13f-06c5-49f8-a774-7f1f726ec081@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261001T154500
+DTEND;TZID=Europe/Paris:20261001T174500
+SUMMARY:CM6 — UE 12 : Mathématiques
+DESCRIPTION:CM6\n15h45-17h45                          \nUE 12 : Mathématiques                              \n\nPIOT O
+END:VEVENT
+BEGIN:VEVENT
+UID:80540452-431f-4957-a760-93794c855af1@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261002T080000
+DTEND;TZID=Europe/Paris:20261002T093000
+SUMMARY:TD6 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD6\n8h-9h30                                   \nUE 12 : Mathématiques                                                                                     \nO. PIOT : G6                                          \nI. NABIEV : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:018008b2-9ba9-4b6c-8710-8f31383da7f4@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261002T094500
+DTEND;TZID=Europe/Paris:20261002T111500
+SUMMARY:TD6 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD6\n9h45-11h15 \n UE 12 : Mathématiques                                                                                    \nO. PIOT : G8                                          \nI. NABIEV : G7
+END:VEVENT
+BEGIN:VEVENT
+UID:2c0f5c28-f636-47b1-85c2-722a626a5e7d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261002T133000
+DTEND;TZID=Europe/Paris:20261002T153000
+SUMMARY:CM7 — UE 11 : Zoologie
+DESCRIPTION:CM7\n13h30-15h30                      \nUE 11 : Zoologie                             \nJ DEPAQUIT
+END:VEVENT
+BEGIN:VEVENT
+UID:0664d62a-dbec-4e3e-b9f2-5f1313e909ad@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261007T080000
+DTEND;TZID=Europe/Paris:20261007T093000
+SUMMARY:TD4 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD4\n8h-9h30                                \n  UE 12 : Mathématiques    \n                                                                      \nO.PIOT :  G7
+END:VEVENT
+BEGIN:VEVENT
+UID:0687e134-5998-4b10-ae1f-0e5bb473cb8c@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261007T080000
+DTEND;TZID=Europe/Paris:20261007T100000
+SUMMARY:TP — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TP   \n8h-10h                          \nUE 11 : Zoologie                                                                              \nJP Martinet / L. AUGENDRE : G1
+END:VEVENT
+BEGIN:VEVENT
+UID:f2718d56-b69c-45af-8cc7-a39648abc9fd@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261007T101500
+DTEND;TZID=Europe/Paris:20261007T121500
+SUMMARY:TP — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TP   \n10h15-12h15                                     \nUE 11 : Zoologie                                                                                \nJP Martinet / L. AUGENDRE : G2
+END:VEVENT
+BEGIN:VEVENT
+UID:88dca791-7587-42b6-a6ce-d63d1383e6e6@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261007T143000
+DTEND;TZID=Europe/Paris:20261007T153000
+SUMMARY:CM4 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM4\n14h30-15h30                                          \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:5081d931-cbe1-4183-b6b3-af146a7f1fe7@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261007T154500
+DTEND;TZID=Europe/Paris:20261007T174500
+SUMMARY:CM7 — UE 11 : Ecologie-Environnement-Evolution
+DESCRIPTION:CM7\n15h45-17h45                             \nUE 11 : Ecologie-Environnement-Evolution                                                                                  \nL. VOUTQUENNE
+END:VEVENT
+BEGIN:VEVENT
+UID:be3644cb-be67-4636-a8ba-9affc3d5eaad@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261008T080000
+DTEND;TZID=Europe/Paris:20261008T093000
+SUMMARY:TD4 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD4\n8h-9h30                           \n UE 12 : Mathématiques                              \n                                                                            \nO.PIOT :G1
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed4e4fd-8800-4483-b76b-42c59d28f8ad@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261008T080000
+DTEND;TZID=Europe/Paris:20261008T100000
+SUMMARY:TP — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TP \n8h-10h                                \nUE 11 : Zoologie                                                                                  \nJP Martinet / L. AUGENDRE : G3
+END:VEVENT
+BEGIN:VEVENT
+UID:732e905a-1f53-4dd2-90fe-48f59540409e@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261008T101500
+DTEND;TZID=Europe/Paris:20261008T121500
+SUMMARY:TP — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TP       \n10h15-12h15                                   \nUE 11 : Zoologie                                                                              \nJP Martinet / L. AUGENDRE : G4
+END:VEVENT
+BEGIN:VEVENT
+UID:144f9131-3dbf-439a-991f-8b3bafcb2df7@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261008T133000
+DTEND;TZID=Europe/Paris:20261008T153000
+SUMMARY:CM5 — UE 12 : Réactions Chimiques
+DESCRIPTION:CM5\n13h30-15h30                                    \nUE 12 : Réactions Chimiques                             \nJM MILLOT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4941154-62ad-45b4-a705-872a32bbd57f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261009T080000
+DTEND;TZID=Europe/Paris:20261009T100000
+SUMMARY:TP — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TP    \n8h-10h                                    \nUE 11 : Zoologie                                                                                  \nJP Martinet / L. AUGENDRE : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:37888131-324b-49b0-9660-fd71d92517ee@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261009T101500
+DTEND;TZID=Europe/Paris:20261009T121500
+SUMMARY:TP — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TP     \n10h15-12h15                                              \nUE 11 : Zoologie                                                                              \nJP Martinet / L. AUGENDRE : G6
+END:VEVENT
+BEGIN:VEVENT
+UID:97546adf-a9c3-42f2-b02c-6f6ac3fa3de7@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261009T133000
+DTEND;TZID=Europe/Paris:20261009T153000
+SUMMARY:CM8 — UE 11 : Ecologie-Environnement-Evolution
+DESCRIPTION:CM8 \n13h30-15h30                              \nUE 11 : Ecologie-Environnement-Evolution                                                                           \nL. VOUTQUENNE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb19694a-b2c5-4b3a-be69-66c518865eed@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261009T154500
+DTEND;TZID=Europe/Paris:20261009T174500
+SUMMARY:CM8 — UE 11 : Zoologie
+DESCRIPTION:CM8\n15h45-17h45                  \nUE 11 : Zoologie                             \nJ DEPAQUIT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e8e747-eb4a-4208-9714-3e4027105d7d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261014T080000
+DTEND;TZID=Europe/Paris:20261014T093000
+SUMMARY:TD6 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD6\n8h-9h30                                  \nUE 12 : Mathématiques                                                                                \nO.PIOT:  G3   \nI.NABIEV : G4
+END:VEVENT
+BEGIN:VEVENT
+UID:ec909030-d240-486e-b776-2ea8f52993c9@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261014T094500
+DTEND;TZID=Europe/Paris:20261014T111500
+SUMMARY:TD6 — UE 12 : Mathématiques — Groupes (voir description)
+DESCRIPTION:TD6\n9h45-11h15 \n UE 12 : Mathématiques                                                                                    \nO. PIOT : G1                                          \nI. NABIEV : G2
+END:VEVENT
+BEGIN:VEVENT
+UID:0679278e-b1fe-47d5-973a-1a91793e0273@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261014T140000
+DTEND;TZID=Europe/Paris:20261014T150000
+SUMMARY:CM5 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM5\n14h-15h                                         \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:ad7740a7-7d5e-4944-aafd-ae3351fa9a25@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261015T080000
+DTEND;TZID=Europe/Paris:20261015T100000
+SUMMARY:TD2 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD2  \n8h-10h                             \nUE 11 : 3E                                                                                                    \nL. VOUTQUENNE : G 1 et 2
+END:VEVENT
+BEGIN:VEVENT
+UID:11ca613c-32ba-40c0-9813-6ab1cdf93ee4@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261015T101500
+DTEND;TZID=Europe/Paris:20261015T121500
+SUMMARY:TD2 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD2  \n10h15-12h15                                      \nUE 11 : 3E                                                                                                  \nL. VOUTQUENNE : G 3 et 4
+END:VEVENT
+BEGIN:VEVENT
+UID:881481f9-a5fa-42af-b9a0-7351e5a7a703@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261016T080000
+DTEND;TZID=Europe/Paris:20261016T100000
+SUMMARY:TP — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TP    \n8h-10h                                    \nUE 11 : Zoologie                                                                                  \nJP Martinet / L. AUGENDRE : G7
+END:VEVENT
+BEGIN:VEVENT
+UID:1729dfe1-f832-4f16-8d7d-4ccbfd64df9b@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261016T101500
+DTEND;TZID=Europe/Paris:20261016T121500
+SUMMARY:TP — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TP     \n10h15-12h15                                              \nUE 11 : Zoologie                                                                              \nJP Martinet / L. AUGENDRE : G8
+END:VEVENT
+BEGIN:VEVENT
+UID:0ce5c913-7391-499e-967b-cc9ffac3f987@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261021T080000
+DTEND;TZID=Europe/Paris:20261021T100000
+SUMMARY:TD3 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD3 \n8h-10h                                \nUE 11 : 3E                                                                                                          \nJ. DEPAQUIT : G 5 et 6
+END:VEVENT
+BEGIN:VEVENT
+UID:d552432e-c77b-47fd-8749-1c2eb21e5d2d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261021T101500
+DTEND;TZID=Europe/Paris:20261021T121500
+SUMMARY:TD3 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD3 \n10h15-12h15                                     \nUE 11 : 3E                                                                                                  \nJ. DEPAQUIT : G 7 et 8
+END:VEVENT
+BEGIN:VEVENT
+UID:82037bbc-2b6e-478f-8233-d34e207ee0fa@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261021T133000
+DTEND;TZID=Europe/Paris:20261021T153000
+SUMMARY:CM6 — UE 12 : Réactions Chimiques
+DESCRIPTION:CM6\n13h30-15h30                                 \nUE 12 : Réactions Chimiques                             \nE.BOURGET
+END:VEVENT
+BEGIN:VEVENT
+UID:0d57a32e-84d4-46f0-8f49-7dd5b5cfa701@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261022T080000
+DTEND;TZID=Europe/Paris:20261022T100000
+SUMMARY:TD2 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD2\n8h-10h                          \nUE 11 : 3E                                                                                                 \nL. VOUTQUENNE : G 5 et 6
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d58296-eeed-4596-89e9-153eb95b1945@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261022T101500
+DTEND;TZID=Europe/Paris:20261022T121500
+SUMMARY:TD2 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD2\n10h15-12h15                                   \nUE 11 : 3E                                                                                                    \nL. VOUTQUENNE : G 7 et 8
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9fe23f-e8a2-4c2b-ac8c-29041fa3bc31@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261022T140000
+DTEND;TZID=Europe/Paris:20261022T150000
+SUMMARY:CM6 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM6\n14h-15h                                          \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa8b0dc-3deb-4f8f-984f-20f89054fab2@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261022T154500
+DTEND;TZID=Europe/Paris:20261022T174500
+SUMMARY:CM1 — UE 12 : Physique
+DESCRIPTION:CM1\n15h45-17h45 \n                        \nUE 12 : Physique
+END:VEVENT
+BEGIN:VEVENT
+UID:1b8fd0f3-e4d7-4773-8260-3d8934dfd50d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261023T080000
+DTEND;TZID=Europe/Paris:20261023T093000
+SUMMARY:TD1 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD1\n8h-9h30                                 \nUE 12 : Physique                              \n                                                                  \nI. NABIEV : G3\nO.PIOT : G6
+END:VEVENT
+BEGIN:VEVENT
+UID:ae078a73-3a45-42ba-9bbe-3b974c4ad0b8@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261023T094500
+DTEND;TZID=Europe/Paris:20261023T111500
+SUMMARY:TD1 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD1 \n9h45-11h15                                  \nUE 12 : Physique                              \n\nO. PIOT : G4   \nI.NABIEV: G7
+END:VEVENT
+BEGIN:VEVENT
+UID:fa85baa0-4ff5-4e7d-ac69-03e504f679ef@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261026T000000
+DTEND;TZID=Europe/Paris:20261031T000000
+SUMMARY:Pause pédagogique
+DESCRIPTION:26 au 30 octobre 2026 — indiqué dans l’emploi du temps.
+END:VEVENT
+BEGIN:VEVENT
+UID:78eed24a-f5ba-4a34-a697-b6492b183ecd@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261104T080000
+DTEND;TZID=Europe/Paris:20261104T093000
+SUMMARY:TD1 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD1 \n8h-9h30                             \nUE 12 : Physique    \n                                                                                                   \nO.PIOT : G5\nP.BOUZY : G8
+END:VEVENT
+BEGIN:VEVENT
+UID:e9fd5ba3-7b7e-41fa-a7b5-c295a5854ef2@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261104T080000
+DTEND;TZID=Europe/Paris:20261104T093000
+SUMMARY:TD1 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD1      \n8h-9h30                                    \nUE 12 : Réactions chimiques                                                                                   \nA. BELJEBBAR : G1\nB. FULBERT : G2\nM. MERSNI : G3
+END:VEVENT
+BEGIN:VEVENT
+UID:ae387fd8-e500-4e77-9f02-839bfec21a51@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261104T094500
+DTEND;TZID=Europe/Paris:20261104T111500
+SUMMARY:TD1 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD1 \n9h45-11h15                                  \nUE 12 : Physique                              \n                                                                            \nP.BOUZY: G1\nO.PIOT: G2
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a923a8-f1e9-4ea9-bba3-7e86a6c443f5@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261104T094500
+DTEND;TZID=Europe/Paris:20261104T111500
+SUMMARY:TD1 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD1     \n9h45-11h15                                   \nUE 12 : Réactions chimiques                                                                                        \nA. BELJEBBAR : G4\nB. FULBERT: G5\nM. MERSNI : G6
+END:VEVENT
+BEGIN:VEVENT
+UID:3f8b9630-d7cd-450a-87f4-9b8fde4fdf37@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261104T154500
+DTEND;TZID=Europe/Paris:20261104T174500
+SUMMARY:CM1 — UE 15 : SHS
+DESCRIPTION:CM1\n15h45-17h45                              \nUE 15 : SHS            \nDes médecins humanistes aux humanités en santé\n A-C ROLLAND
+END:VEVENT
+BEGIN:VEVENT
+UID:13bd9a85-353b-4773-9531-de17ca6ef39e@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261105T080000
+DTEND;TZID=Europe/Paris:20261105T093000
+SUMMARY:TD1 — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TD1\n8h-9h30                            \nUE 11 : Zoologie                                                                              \nRAN. Fano  : G1 et 2
+END:VEVENT
+BEGIN:VEVENT
+UID:44e19ead-d411-4c72-8b47-dc19bfc93fe3@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261105T094500
+DTEND;TZID=Europe/Paris:20261105T111500
+SUMMARY:TD1 — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TD1\n9h45-11h15                                 \nUE 11 : Zoologie                                                                                 \nRAN. Fano  : G3 et 4
+END:VEVENT
+BEGIN:VEVENT
+UID:a131a724-d5ac-449b-9d02-a31720da572d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261105T133000
+DTEND;TZID=Europe/Paris:20261105T153000
+SUMMARY:CM2 — UE 15 : SHS
+DESCRIPTION:CM2\n13h30-15h30                            \nUE 15 : SHS                        \nSexe et genre
+END:VEVENT
+BEGIN:VEVENT
+UID:1c0f592d-adf2-45dc-9354-210656811521@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261105T160000
+DTEND;TZID=Europe/Paris:20261105T170000
+SUMMARY:CM7 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM7\n16h-17h                                          \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:94573b39-149a-4871-b810-6dbf8c0dfb98@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261106T080000
+DTEND;TZID=Europe/Paris:20261106T093000
+SUMMARY:TD1 — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TD1\n8h-9h30                                             \nUE 11 : Zoologie                                                                                 \nRAN. Fano  : G5 et 6
+END:VEVENT
+BEGIN:VEVENT
+UID:a1fd2557-d297-4224-a5d4-7b944642e7ee@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261106T080000
+DTEND;TZID=Europe/Paris:20261106T093000
+SUMMARY:TD1 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD1   \n8h-9h30                              \nUE 12 : Réactions chimiques                                                                                         \nP. LAMEIRAS : G7\nB. FULBERT : G8
+END:VEVENT
+BEGIN:VEVENT
+UID:ad10dcc8-167e-4a75-ba4b-854e182b977c@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261106T080000
+DTEND;TZID=Europe/Paris:20261106T100000
+SUMMARY:TD3 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD3    \n8h-10h                                \nUE 11 : 3E                                                                                                \nJ. DEPAQUIT : G1 et 2
+END:VEVENT
+BEGIN:VEVENT
+UID:32ec96bc-5a1a-4278-bbd6-1f0734c782a2@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261106T094500
+DTEND;TZID=Europe/Paris:20261106T111500
+SUMMARY:TD1 — UE 11 : Zoologie — Groupes (voir description)
+DESCRIPTION:TD1\n9h45-11h15                              \nUE 11 : Zoologie                                                                                   \nRAN. Fano : G7 et 8
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a10f59-61f0-42b5-acde-2405b6cbab84@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261106T101500
+DTEND;TZID=Europe/Paris:20261106T121500
+SUMMARY:TD3 — UE 11 : 3E — Groupes (voir description)
+DESCRIPTION:TD3  \n10h15-12h15                                    \nUE 11 : 3E                                                                                                \nJ. DEPAQUIT : G 3 et 4
+END:VEVENT
+BEGIN:VEVENT
+UID:2a9b4a2d-2688-48e6-83aa-8dff999d893a@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261106T133000
+DTEND;TZID=Europe/Paris:20261106T153000
+SUMMARY:CM9 — UE 11 : Zoologie
+DESCRIPTION:CM9\n13h30-15h30                                 \nUE 11 : Zoologie                             \nMARTINET JP
+END:VEVENT
+BEGIN:VEVENT
+UID:2b14846b-1aae-4205-a779-c341b42dae9c@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261106T154500
+DTEND;TZID=Europe/Paris:20261106T174500
+SUMMARY:CM2 — UE 12 : Physique
+DESCRIPTION:CM2\n15h45-17h45   \n                         \n    UE 12 : Physique
+END:VEVENT
+BEGIN:VEVENT
+UID:321cbd5b-71c3-4f7e-b679-1190b4433963@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261111T000000
+DTEND;TZID=Europe/Paris:20261112T000000
+SUMMARY:Férié
+DESCRIPTION:FÉRIÉ
+END:VEVENT
+BEGIN:VEVENT
+UID:f8616e5c-849f-4596-b5e1-4c6f43060749@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261112T080000
+DTEND;TZID=Europe/Paris:20261112T093000
+SUMMARY:TD2 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD2\n8h-9h30                                   \nUE 12 : Physique                              \n                                                                           \nO. PIOT : G7              \nI. NABIEV : G8
+END:VEVENT
+BEGIN:VEVENT
+UID:bb26a33f-707e-437e-9713-e4758065e89f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261112T080000
+DTEND;TZID=Europe/Paris:20261112T093000
+SUMMARY:TD2 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD2            \n8h-9h30                                \nUE 12 : Réactions chimiques                                              \nP. LAMEIRAS : G2\nM. MERSNI : G3
+END:VEVENT
+BEGIN:VEVENT
+UID:6dafe2dc-595a-4428-965f-a80bee1568cd@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261112T094500
+DTEND;TZID=Europe/Paris:20261112T111500
+SUMMARY:TD2 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD2\n9h45-11h15                               \nUE 12 : Physique                              \n                                            \nO. PIOT : G2                                           \nI. NABIEV : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:d49b2f64-8503-492d-ab45-c9aa19f8fec0@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261112T154500
+DTEND;TZID=Europe/Paris:20261112T174500
+SUMMARY:CM10 — UE 11 : Zoologie
+DESCRIPTION:CM10 \n15h45-17h45                            \nUE 11 : Zoologie                             \nMARTINET JP
+END:VEVENT
+BEGIN:VEVENT
+UID:c043428a-2c8f-4169-8d81-a9e9e6e08833@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261113T080000
+DTEND;TZID=Europe/Paris:20261113T093000
+SUMMARY:TD2 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD2\n8h-9h30                                \nUE 12 : Physique                              \n                                              \nO. PIOT : G1                                           \nI. NABIEV : G3
+END:VEVENT
+BEGIN:VEVENT
+UID:96ac7fe2-9833-44b1-a80e-62fbed9d348f@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261113T080000
+DTEND;TZID=Europe/Paris:20261113T093000
+SUMMARY:TD2 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD2    \n8h-9h30                              \nUE 12 : Réactions chimiques                                                    \nA. BELJEBBAR : G4\nM. MERSNI : G5\nP. LAMEIRAS : G6
+END:VEVENT
+BEGIN:VEVENT
+UID:e17d873e-1289-4ae8-8bf3-30ce06a7aeee@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261113T094500
+DTEND;TZID=Europe/Paris:20261113T111500
+SUMMARY:TD2 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD2\n9h45-11h15                              \n UE 12 : Physique                              \n                                             \nO. PIOT : G4                                          \nI. NABIEV : G6
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ab0918-000c-4dda-ac8e-b61b89ae3970@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261113T094500
+DTEND;TZID=Europe/Paris:20261113T111500
+SUMMARY:TD2 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD2  \n9h45-11h15                                   \nUE 12 : Réactions chimiques \nA. BELJEBBAR : G7\nM. MERSNI : G8\nP. LAMEIRAS : G1
+END:VEVENT
+BEGIN:VEVENT
+UID:13425663-1ad9-4a2f-b75a-409bad557c10@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261113T133000
+DTEND;TZID=Europe/Paris:20261113T153000
+SUMMARY:CM3 — UE 15 : SHS
+DESCRIPTION:CM3\n13h30-15h30                               \nUE 15 : SHS                      \n L'histoire du médicament \nC FELIU
+END:VEVENT
+BEGIN:VEVENT
+UID:0f2f2fe3-4b6f-4bf4-9152-edb2ec248bd4@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261113T154500
+DTEND;TZID=Europe/Paris:20261113T174500
+SUMMARY:CM3 — UE 12 : Physique
+DESCRIPTION:CM3\n15h45-17h45\n\n UE 12 : Physique
+END:VEVENT
+BEGIN:VEVENT
+UID:bc323a54-2105-407c-ad72-51dd310af4e3@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261118T080000
+DTEND;TZID=Europe/Paris:20261118T093000
+SUMMARY:TD3 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD3\n8h - 9h30                           \nUE 12 : Physique                              \n                                                                                 \nI. NABIEV : G3\nO.PIOT : G4
+END:VEVENT
+BEGIN:VEVENT
+UID:4da3263a-4c83-4474-b9b6-9385bbb5a1b2@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261118T080000
+DTEND;TZID=Europe/Paris:20261118T093000
+SUMMARY:TD3 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD3    \n8h-9h30                                    \nUE 12 : Réactions chimiques                                                    \nA. BELJEBBAR : G7\nM. MERSNI : G8 \nP.LAMEIRAS : G2
+END:VEVENT
+BEGIN:VEVENT
+UID:aac3361a-b9a3-4938-9a4a-a229ed88d718@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261118T094500
+DTEND;TZID=Europe/Paris:20261118T111500
+SUMMARY:TD3 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD3\n9h45 - 11h15                        \nUE 12 : Physique                              \n                                                                                \nI. NABIEV : G6\nO.PIOT : G1
+END:VEVENT
+BEGIN:VEVENT
+UID:42f646bf-04f4-4e6e-8ddc-1b87a3380c47@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261118T094500
+DTEND;TZID=Europe/Paris:20261118T111500
+SUMMARY:TD3 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD3          \n9h45-11h15                             \nUE 12 : Réactions chimiques                                              \nA. BELJEBBAR : G3\nM. MERSNI : G4 \nP.LAMEIRAS : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:db5cb63d-44ba-4795-b491-e4e3c3cb5252@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261118T133000
+DTEND;TZID=Europe/Paris:20261118T153000
+SUMMARY:CM11 — UE 11 : Zoologie
+DESCRIPTION:CM11\n13h30-15h30                               \nUE 11 : Zoologie                             \nMARTINET JP
+END:VEVENT
+BEGIN:VEVENT
+UID:05c49215-8e10-4a16-9549-69c87f69c4fc@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261118T160000
+DTEND;TZID=Europe/Paris:20261118T170000
+SUMMARY:CM9 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM9\n16h-17h                                      \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:a147ddf4-e993-4420-92db-d7fec18a189d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261119T080000
+DTEND;TZID=Europe/Paris:20261119T093000
+SUMMARY:TD3 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD3\n8h-9h30                           \nUE 12 : Physique \n                                                                         \nO. PIOT : G7\nI.NABIEV: G8
+END:VEVENT
+BEGIN:VEVENT
+UID:d91fa5ae-9750-423c-8764-e7d14de19c2d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261119T080000
+DTEND;TZID=Europe/Paris:20261119T093000
+SUMMARY:TD3 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD3\n8h-9h30                                \nUE 12 : Physique                              \n                                            \nO. PIOT : G5                                     \nI. NABIEV : G2
+END:VEVENT
+BEGIN:VEVENT
+UID:9c3a072b-c150-4be1-a304-56f6f36b9e5d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261119T080000
+DTEND;TZID=Europe/Paris:20261119T093000
+SUMMARY:TD3 — UE 12 : Réactions chimiques — Groupes (voir description)
+DESCRIPTION:TD3       \n8h-9h30\nUE 12 : Réactions chimiques                                                  \nA. BELJEBBAR : G6\nM. MERSNI : G1
+END:VEVENT
+BEGIN:VEVENT
+UID:97664c0c-58a7-42a9-a1f9-ad3c320a4466@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261119T133000
+DTEND;TZID=Europe/Paris:20261119T153000
+SUMMARY:CM4 — UE 12 : Physique
+DESCRIPTION:CM4\n13h30-15h30 \n                            \nUE 12 : Physique
+END:VEVENT
+BEGIN:VEVENT
+UID:2ebb9208-346c-4faf-aa59-108a40df6d88@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261119T154500
+DTEND;TZID=Europe/Paris:20261119T174500
+SUMMARY:CM12 — UE 11 : Zoologie
+DESCRIPTION:CM12\n15h45-17h45            \nUE 11 : Zoologie                             \nMARTINET JP
+END:VEVENT
+BEGIN:VEVENT
+UID:fba3c6b2-3153-4683-a9ce-ceadf0b65c21@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261120T160000
+DTEND;TZID=Europe/Paris:20261120T170000
+SUMMARY:CM8 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM8\n16h-17h                                          \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:5496f6cf-45b8-4ea6-81bd-9d2ef588aa86@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261125T080000
+DTEND;TZID=Europe/Paris:20261125T093000
+SUMMARY:TD4 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD4\n8h-9h30                                 \nUE 12 : Physique                              \n                                             \nO. PIOT : G1                             \nI. NABIEV : G8
+END:VEVENT
+BEGIN:VEVENT
+UID:96d77a1e-d0d3-4eae-a445-b4ab51a2cabd@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261125T094500
+DTEND;TZID=Europe/Paris:20261125T111500
+SUMMARY:TD4 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD4\n9h45-11h15                                  \nUE 12 : Physique                              \n                                            \nO. PIOT : G4                             \nI. NABIEV : G6
+END:VEVENT
+BEGIN:VEVENT
+UID:d6dec5ca-5a56-4497-8ce3-aaedaa37f29b@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261125T133000
+DTEND;TZID=Europe/Paris:20261125T150000
+SUMMARY:CM4 — UE 15 : SHS
+DESCRIPTION:CM4\n13h30-15h                              \nUE 15 : SHS                    \nIntroduction à l'éthique\nA. MAQUART
+END:VEVENT
+BEGIN:VEVENT
+UID:63fe4506-8eb9-4a96-b10e-52bbf54664a2@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261125T150000
+DTEND;TZID=Europe/Paris:20261125T170000
+SUMMARY:CM5 — UE 15 : SHS
+DESCRIPTION:CM5\n15h-17h                                 \nUE 15 : SHS                    \nDarwin et le darwinisme\nA-C ROLLAND
+END:VEVENT
+BEGIN:VEVENT
+UID:fa2baf26-e4f6-417d-a2e2-02538e2f8fad@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261126T080000
+DTEND;TZID=Europe/Paris:20261126T093000
+SUMMARY:TD4 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD4\n8h-9h30                            \nUE 12 : Physique                              \n                                             \nO. PIOT : G7                           \nI. NABIEV : G5
+END:VEVENT
+BEGIN:VEVENT
+UID:7efc821f-b2c3-48d4-be22-9cc814ca3634@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261126T094500
+DTEND;TZID=Europe/Paris:20261126T111500
+SUMMARY:TD4 — UE 12 : Physique — Groupes (voir description)
+DESCRIPTION:TD4\n9h45-11h15                                 \nUE 12 : Physique                              \n                                         \nO. PIOT : G2                             \nI.NABIEV :  G3
+END:VEVENT
+BEGIN:VEVENT
+UID:ac5ab6cc-76ec-4405-a28c-2dcea8e2b8a2@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261126T160000
+DTEND;TZID=Europe/Paris:20261126T170000
+SUMMARY:CM10 — UE 15 : Anglais ZOOM
+DESCRIPTION:CM10\n16h-17h                                      \n UE 15 : Anglais ZOOM                          \nPrésentation Plateforme Altissia \nM HAMMOND
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c45697-8abf-4ca4-bb3a-d680e8df809d@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261127T130000
+DTEND;TZID=Europe/Paris:20261127T143000
+SUMMARY:CM6 — UE 15 : SHS
+DESCRIPTION:CM6\n13h-14h30                             \nUE 15 : SHS                    \nLa démarche éthique\nA. MAQUART
+END:VEVENT
+BEGIN:VEVENT
+UID:1f381a1c-73ca-4038-b15d-34bf08606368@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261202T154500
+DTEND;TZID=Europe/Paris:20261202T174500
+SUMMARY:CM7 — UE 15 : SHS
+DESCRIPTION:CM7\n15h45-17h45                 \nUE 15 : SHS                    \nHistoire de la psychiatrie \nJ EUTROPE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f5ac338-2a1a-4af9-9d24-e9ff24d35e53@chatgpt
+DTSTAMP:20260828T133909
+DTSTART;TZID=Europe/Paris:20261203T151500
+DTEND;TZID=Europe/Paris:20261203T171500
+SUMMARY:CM8 — UE 15 : SHS
+DESCRIPTION:CM8\n15h15 - 17h15               \nUE 15 : SHS                    \nSciences et médecine\nC. PLUCHART
+END:VEVENT
+BEGIN:VEVENT
+UID:8d58204c-3c3f-400c-9c99-d9c50d89e70b@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260907T080000
+DTEND;TZID=Europe/Paris:20260907T100000
+SUMMARY:TC LAS — CM1 — UE 13 : Physiologie
+DESCRIPTION:CM1 UE 13 : Physiologie 8h-10h G.LORON Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a0594b-d0a2-45fc-b60b-35ad63debb71@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260914T080000
+DTEND;TZID=Europe/Paris:20260914T100000
+SUMMARY:TC LAS — CM2 — UE 13 : Physiologie
+DESCRIPTION:CM2 UE 13 : Physiologie 8h-10h G.LORON Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:b03ae24f-0569-4634-83ff-61f9fd914e28@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260914T130000
+DTEND;TZID=Europe/Paris:20260914T143000
+SUMMARY:TC LAS — TD1 — UE 13 : Histologie
+DESCRIPTION:TD1 UE 13 : Histologie Généralités\, épithéliums 13h-14h30 : G1\, 2 et 3 14h45-16h15 : G4\, 5 et 6 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:717fae05-09c1-4051-86df-26f5b60bed29@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260914T144500
+DTEND;TZID=Europe/Paris:20260914T161500
+SUMMARY:TC LAS — TD1 — UE 13 : Histologie
+DESCRIPTION:TD1 UE 13 : Histologie Généralités\, épithéliums 13h-14h30 : G1\, 2 et 3 14h45-16h15 : G4\, 5 et 6 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:f895739e-c402-484b-aabf-a569bf02c6ec@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260915T130000
+DTEND;TZID=Europe/Paris:20260915T143000
+SUMMARY:TC LAS — TD1 — UE 13 : Histologie
+DESCRIPTION:TD1 UE 13 : Histologie Généralités\, épithéliums 13h-14h30 : G10\, 11\, 12 14h45-16h15 : G13\, 14\, 15 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:a9aec1ae-b179-4922-8e24-509794cd5d9d@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260915T144500
+DTEND;TZID=Europe/Paris:20260915T161500
+SUMMARY:TC LAS — TD1 — UE 13 : Histologie
+DESCRIPTION:TD1 UE 13 : Histologie Généralités\, épithéliums 13h-14h30 : G10\, 11\, 12 14h45-16h15 : G13\, 14\, 15 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b76ed5-8eeb-4920-8797-1c5a8ecefcfc@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260915T163000
+DTEND;TZID=Europe/Paris:20260915T180000
+SUMMARY:TC LAS — TD1 — UE 13 : Histologie
+DESCRIPTION:TD1 UE 13 : Histologie Généralités\, épithéliums 16h30-18h : G16\, 17 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:5d679304-54ed-4cf7-922b-0dd45a1834a5@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260915T180000
+DTEND;TZID=Europe/Paris:20260915T193000
+SUMMARY:TC LAS — TD1 — UE 13 : Histologie
+DESCRIPTION:TD1 UE 13 : Histologie Généralités\, épithéliums 18h-19h30 : G7\, 8 et 9 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:b76eaa8f-218a-4e89-a00e-96b206033ed6@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260921T080000
+DTEND;TZID=Europe/Paris:20260921T100000
+SUMMARY:TC LAS — CM3 — UE 13 : Physiologie
+DESCRIPTION:CM3 UE 13 : Physiologie 8h-10h G.LORON Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:3963b35a-1d96-4e49-8e4d-394f9f1c1dbd@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260921T103000
+DTEND;TZID=Europe/Paris:20260921T120000
+SUMMARY:TC LAS — TD1 — UE 13 : Histologie
+DESCRIPTION:TD1 UE 13 : Histologie Généralités\, épithéliums 10h30-12h : G18 (zoom) S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:0a4c1d04-a6ff-4e0d-856c-feeb259c6b3c@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260921T133000
+DTEND;TZID=Europe/Paris:20260921T153000
+SUMMARY:TC LAS — TD1 — UE 14 : Biochimie - Glucides\, lipides
+DESCRIPTION:TD1 UE 14 : Biochimie - Glucides\, lipides 13h30-15h30 G1 : C.SABY G2 : A.DLALA G3 : H.MORJANI
+END:VEVENT
+BEGIN:VEVENT
+UID:a736b219-2752-450b-9059-f9cdaca387d2@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260921T133000
+DTEND;TZID=Europe/Paris:20260921T153000
+SUMMARY:TC LAS — TD1/TD2 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD1/TD2 UE 14 : Biologie Cellulaire Cellule et membrane-Cytosquelette 13h30-15h30: G9\,10\,11 et 12 POLETTE / DALSTEIN
+END:VEVENT
+BEGIN:VEVENT
+UID:def8ae77-6eba-42ac-a63a-2c707d10f482@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260921T154500
+DTEND;TZID=Europe/Paris:20260921T174500
+SUMMARY:TC LAS — TD1 — UE 14 : Biochimie - Glucides\, lipides
+DESCRIPTION:TD1 UE 14 : Biochimie - Glucides\, lipides 15h45-17h45 G4 : C.SABY G5 : A.DLALA G6 : H.MORJANI
+END:VEVENT
+BEGIN:VEVENT
+UID:e7a7f6ef-5cf2-4726-98ad-560f8193dff6@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260921T154500
+DTEND;TZID=Europe/Paris:20260921T174500
+SUMMARY:TC LAS — TD1/TD2 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD1/TD2 UE 14 : Biologie Cellulaire Cellule et membrane-Cytosquelette 15h45-17h45: 7\,8\,15\,16\,17 POLETTE / DALSTEIN
+END:VEVENT
+BEGIN:VEVENT
+UID:75f699d6-f08e-4790-a7fb-7e856ccaac7f@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260922T133000
+DTEND;TZID=Europe/Paris:20260922T153000
+SUMMARY:TC LAS — TD1 — UE 14 : Biochimie - Glucides\, lipides
+DESCRIPTION:TD1 UE 14 : Biochimie - Glucides\, lipides 13h30-15h30 G7 : C.SABY G8 : A.DLALA G9 : H.MORJANI
+END:VEVENT
+BEGIN:VEVENT
+UID:0a6f80f8-5cb9-4903-b708-4f96e807a985@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260922T133000
+DTEND;TZID=Europe/Paris:20260922T153000
+SUMMARY:TC LAS — TD1/TD2 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD1/TD2 UE 14 : Biologie Cellulaire Cellule et membrane-Cytosquelette 13h30-15h30: G1\,2\,3 et 4 POLETTE / DALSTEIN
+END:VEVENT
+BEGIN:VEVENT
+UID:893ae3a6-2dea-4f09-b7c1-9147464b4aa8@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260922T154500
+DTEND;TZID=Europe/Paris:20260922T174500
+SUMMARY:TC LAS — TD1 — UE 14 : Biochimie - Glucides\, lipides
+DESCRIPTION:TD1 UE 14 : Biochimie - Glucides\, lipides 15h45-17h45 G10 : C.SABY G11 : A.DLALA G12 : H.MORJANI
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed57eb0-fac9-4adb-9a97-e4a53e812b6a@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260922T154500
+DTEND;TZID=Europe/Paris:20260922T174500
+SUMMARY:TC LAS — TD1/TD2 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD1/TD2 UE 14 : Biologie Cellulaire Cellule et membrane-Cytosquelette 15h45-17h45: G5\,6\,13\,14 (présentiel) 18 (zoom) POLETTE / DALSTEIN
+END:VEVENT
+BEGIN:VEVENT
+UID:11166c81-b814-4778-b189-604dfc405f21@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260928T080000
+DTEND;TZID=Europe/Paris:20260928T100000
+SUMMARY:TC LAS — CM4 — UE 13 : Physiologie
+DESCRIPTION:CM4 UE 13 : Physiologie 8h-10h G.LORON Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:d24e56c2-3b32-44ec-afce-9a4db882a0df@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260928T133000
+DTEND;TZID=Europe/Paris:20260928T153000
+SUMMARY:TC LAS — TD1 — UE 14 : Biochimie - Glucides\, lipides
+DESCRIPTION:TD1 UE 14 : Biochimie - Glucides\, lipides 13h30-15h30 G13 : C.SABY G14 : A.DLALA G15 : H.MORJANI
+END:VEVENT
+BEGIN:VEVENT
+UID:a122d2dc-315b-4e76-bef4-336d000cfa6e@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260928T133000
+DTEND;TZID=Europe/Paris:20260928T153000
+SUMMARY:TC LAS — TD2 — UE 13 : Histologie - Tissus conjonctifs
+DESCRIPTION:TD2 UE 13 : Histologie - Tissus conjonctifs 13h30-15h30 : G7\, 8 et 9 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:11d8670c-dc79-4b7b-8ff7-9ccd6eafca18@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260928T154500
+DTEND;TZID=Europe/Paris:20260928T174500
+SUMMARY:TC LAS — TD1 — UE 14 : Biochimie - Glucides\, lipides
+DESCRIPTION:TD1 UE 14 : Biochimie - Glucides\, lipides 15h45-17h45 G16 : C.SABY G17 : A.DLALA G18 (zoom) : H.MORJANI
+END:VEVENT
+BEGIN:VEVENT
+UID:fad6e7c3-cc91-458d-9cf5-96bc7a5ede4e@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260928T154500
+DTEND;TZID=Europe/Paris:20260928T174500
+SUMMARY:TC LAS — TD2 — UE 13 : Histologie - Tissus conjonctifs
+DESCRIPTION:TD2 UE 13 : Histologie - Tissus conjonctifs 15h45-17h45: G1\, 2 et 3 S.CAUDROY/V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:dd539cd8-5e8e-4f86-bf9a-76778ccaacf1@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260929T133000
+DTEND;TZID=Europe/Paris:20260929T153000
+SUMMARY:TC LAS — TD2 — UE 13 : Histologie - Tissus conjonctifs
+DESCRIPTION:TD2 UE 13 : Histologie - Tissus conjonctifs 13h30-15h30: G10\, 11 et 12 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f395c5-78dc-483b-ae9e-c21660ef64e6@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20260929T154500
+DTEND;TZID=Europe/Paris:20260929T174500
+SUMMARY:TC LAS — TD2 — UE 13 : Histologie - Tissus conjonctifs
+DESCRIPTION:TD2 UE 13 : Histologie - Tissus conjonctifs 15h45-17h45: G4\, 5 et 6 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:33451196-6933-44ac-9ffc-89495d18c89e@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261005T080000
+DTEND;TZID=Europe/Paris:20261005T100000
+SUMMARY:TC LAS — CM5 — UE 13 : Physiologie
+DESCRIPTION:CM5 UE 13 : Physiologie 8h-10h G.LORON Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:91aa139e-760b-4a94-ae58-c8e0f9079a31@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261005T133000
+DTEND;TZID=Europe/Paris:20261005T150000
+SUMMARY:TC LAS — TD1 — UE 14 : Chimie
+DESCRIPTION:TD1 UE 14 : Chimie 13h30-15h G10 : H. BERBER G11 : E. BOURGUET G12 : A. BELJEBBAR
+END:VEVENT
+BEGIN:VEVENT
+UID:61a7b0d2-798c-4923-89d0-c17a7f21d314@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261005T133000
+DTEND;TZID=Europe/Paris:20261005T153000
+SUMMARY:TC LAS — TD2 — UE 13 : Histologie - Tissus conjonctifs
+DESCRIPTION:TD2 UE 13 : Histologie - Tissus conjonctifs 13h30-15h30: G13\, 14 et 15 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:a5aa9013-ffda-41a9-a573-8012c62991a2@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261005T133000
+DTEND;TZID=Europe/Paris:20261005T153000
+SUMMARY:TC LAS — TD3/TD4 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD3/TD4 UE 14 : Biologie Cellulaire Système endomenbranaire-Cytosol peroxysomes/mitochondries 13h30-15h30: G1\,2 (présentiel) 18 (zoom) C CLAVEL
+END:VEVENT
+BEGIN:VEVENT
+UID:ff341188-777b-40f4-b68c-f25a0cbdc423@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261005T151500
+DTEND;TZID=Europe/Paris:20261005T164500
+SUMMARY:TC LAS — TD1 — UE 14 : Chimie
+DESCRIPTION:TD1 UE 14 : Chimie 15h15-16h45 G7 : H. BERBER G8 : E. BOURGUET G9 : A. BELJEBBAR
+END:VEVENT
+BEGIN:VEVENT
+UID:86d8a249-766a-4f96-b309-b85cb0f78520@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261005T154500
+DTEND;TZID=Europe/Paris:20261005T174500
+SUMMARY:TC LAS — TD2 — UE 13 : Histologie - Tissus conjonctifs
+DESCRIPTION:TD2 UE 13 : Histologie - Tissus conjonctifs 15h45-17h45: G16 et 17 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:95f586d2-effc-46d3-911b-6af74d0426dc@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261005T154500
+DTEND;TZID=Europe/Paris:20261005T174500
+SUMMARY:TC LAS — TD3/TD4 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD3/TD4 UE 14 : Biologie Cellulaire Système endomenbranaire-Cytosol peroxysomes/mitochondries 15h45-17h45: G3\,4 C CLAVEL
+END:VEVENT
+BEGIN:VEVENT
+UID:6200c2a3-f343-400a-824d-5aed5826abcb@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261006T133000
+DTEND;TZID=Europe/Paris:20261006T150000
+SUMMARY:TC LAS — TD1 — UE 14 : Chimie
+DESCRIPTION:TD1 UE 14 : Chimie 13h30-15h G4 : H. BERBER G5 : E. BOURGUET G6 : A. BELJEBBAR
+END:VEVENT
+BEGIN:VEVENT
+UID:5f0f2a3c-6e44-4627-8828-b61eee48b96e@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261006T133000
+DTEND;TZID=Europe/Paris:20261006T153000
+SUMMARY:TC LAS — TD2 — UE 13 : Histologie - Tissus conjonctifs
+DESCRIPTION:TD2 UE 13 : Histologie - Tissus conjonctifs 13h30-15h30: G18 (Zoom) S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:eb718466-caa1-4cb1-9586-36fb344efe15@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261006T133000
+DTEND;TZID=Europe/Paris:20261006T153000
+SUMMARY:TC LAS — TD3/TD4 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD3/TD4 UE 14 : Biologie Cellulaire Système endomenbranaire-Cytosol peroxysomes/mitochondries 13h30-15h30: G13\,14 C CLAVEL
+END:VEVENT
+BEGIN:VEVENT
+UID:d633942a-7c0f-4618-8ac3-0ede83cc5ce1@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261006T151500
+DTEND;TZID=Europe/Paris:20261006T164500
+SUMMARY:TC LAS — TD1 — UE 14 : Chimie
+DESCRIPTION:TD1 UE 14 : Chimie 15h15-16h45 G1 : H. BERBER G2 : E. BOURGUET G3 : A. BELJEBBAR
+END:VEVENT
+BEGIN:VEVENT
+UID:298c3a72-00c7-4135-b456-61fd0e84aaa4@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261006T154500
+DTEND;TZID=Europe/Paris:20261006T174500
+SUMMARY:TC LAS — TD3/TD4 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD3/TD4 UE 14 : Biologie Cellulaire Système endomenbranaire-Cytosol peroxysomes/mitochondries 15h45-17h45: G15\,16\, 17 C CLAVEL
+END:VEVENT
+BEGIN:VEVENT
+UID:c3d57d5e-dc67-463e-a17a-8c0a375b7f37@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:TC LAS — PAS DE TD EDN Session 1
+DESCRIPTION:PAS DE TD EDN Session 1
+END:VEVENT
+BEGIN:VEVENT
+UID:ce85f03b-12d1-4d22-9090-f11e8b918bb0@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:TC LAS — PAS DE TD EDN Session 1
+DESCRIPTION:PAS DE TD EDN Session 1
+END:VEVENT
+BEGIN:VEVENT
+UID:933964a0-ba94-4d22-af8d-1d50f8d3e480@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261019T133000
+DTEND;TZID=Europe/Paris:20261019T153000
+SUMMARY:TC LAS — TD3/TD4 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD3/TD4 UE 14 : Biologie Cellulaire Système endomenbranaire-Cytosol peroxysomes/mitochondries 13h30-15h30: G9\, 10 C CLAVEL
+END:VEVENT
+BEGIN:VEVENT
+UID:bb551f2e-862f-4e12-9a5c-51416d1b4fba@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261019T154500
+DTEND;TZID=Europe/Paris:20261019T174500
+SUMMARY:TC LAS — TD3/TD4 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD3/TD4 UE 14 : Biologie Cellulaire Système endomenbranaire-Cytosol peroxysomes/mitochondries 15h45-17h45: G11\,12 C CLAVEL
+END:VEVENT
+BEGIN:VEVENT
+UID:2fb2ba28-e737-498b-b9c4-fef3fa011586@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261020T133000
+DTEND;TZID=Europe/Paris:20261020T150000
+SUMMARY:TC LAS — TD1 — UE 14 : Chimie
+DESCRIPTION:TD1 UE 14 : Chimie 13h30-15h G13 : H.BERBER G14 : E. BOURGUET G15 : A. BELJEBBAR
+END:VEVENT
+BEGIN:VEVENT
+UID:7dbeeddf-7e2e-437a-b7b0-9e3c0b0ece71@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261020T133000
+DTEND;TZID=Europe/Paris:20261020T153000
+SUMMARY:TC LAS — TD3/TD4 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD3/TD4 UE 14 : Biologie Cellulaire Système endomenbranaire-Cytosol peroxysomes/mitochondries 13h30-15h30: G5\,6 C CLAVEL
+END:VEVENT
+BEGIN:VEVENT
+UID:d3d395e4-1d3a-4565-98b6-5e69a9ed38f6@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261020T151500
+DTEND;TZID=Europe/Paris:20261020T164500
+SUMMARY:TC LAS — TD1 — UE 14 : Chimie
+DESCRIPTION:TD1 UE 14 : Chimie 15h15-16h45 G16 : H.BERBER G17 : A. BELJEBBAR G18 (zoom) : E. BOURGUET
+END:VEVENT
+BEGIN:VEVENT
+UID:ed90d57c-709e-4d5e-bb5d-f12f3db3271b@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261020T154500
+DTEND;TZID=Europe/Paris:20261020T174500
+SUMMARY:TC LAS — TD3/TD4 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD3/TD4 UE 14 : Biologie Cellulaire Système endomenbranaire-Cytosol peroxysomes/mitochondries 15h45-17h45: G7\,8 C CLAVEL
+END:VEVENT
+BEGIN:VEVENT
+UID:99e9a014-6095-4cc0-94b4-97b9cbe31415@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261028
+SUMMARY:TC LAS — Pause pédagogique de la Toussaint
+DESCRIPTION:Pause pédagogique de la Toussaint
+END:VEVENT
+BEGIN:VEVENT
+UID:b73cdaf3-31b6-4be4-a3b1-e033406d6821@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261102T080000
+DTEND;TZID=Europe/Paris:20261102T100000
+SUMMARY:TC LAS — CM6 — UE 13 : Physiologie
+DESCRIPTION:CM6 UE 13 : Physiologie 8h-10h G.LORON Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:bddf5e24-06dc-49e3-b5b3-fd4fac40cd4d@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261102T100000
+DTEND;TZID=Europe/Paris:20261102T120000
+SUMMARY:TC LAS — TD3 — UE13 : Histologie
+DESCRIPTION:TD3 UE13 : Histologie Tissus musculaires et nerveux 10h -12h: G18 (Zoom) S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:1dad72fd-bd50-414d-bfd3-5abefce31285@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261102T133000
+DTEND;TZID=Europe/Paris:20261102T153000
+SUMMARY:TC LAS — TD3 — UE13 : Histologie
+DESCRIPTION:TD3 UE13 : Histologie Tissus musculaires et nerveux 13h30-15h30: G1\, 2 et 3 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:cb9d562a-7f6d-4512-94b3-b877b45b23aa@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261102T133000
+DTEND;TZID=Europe/Paris:20261102T153000
+SUMMARY:TC LAS — TD5/TD6 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD5/TD6 UE 14 : Biologie Cellulaire Noyau-Cycle cellulaire 13h30-15h30: G9\,10\,11\,12\,17 V DALSTEIN / A TRUSSARDI
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd50a44-692e-4508-bbbb-23a026f5b0b8@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261102T154500
+DTEND;TZID=Europe/Paris:20261102T174500
+SUMMARY:TC LAS — TD3 — UE13 : Histologie
+DESCRIPTION:TD3 UE13 : Histologie Tissus musculaires et nerveux 15h45-17h45: G4\, 5 et 6 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:9bf14075-dbfd-4a33-a73d-7a2b4f974964@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261102T154500
+DTEND;TZID=Europe/Paris:20261102T174500
+SUMMARY:TC LAS — TD5/TD6 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD5/TD6 UE 14 : Biologie Cellulaire Noyau-Cycle cellulaire 15h45-17h45: G13\,14\,15\,16 (présentiel) 18(zoom) V DALSTEIN / A TRUSSARDI
+END:VEVENT
+BEGIN:VEVENT
+UID:38e12ccf-baaa-4f39-af27-3b1504e411e5@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261103T080000
+DTEND;TZID=Europe/Paris:20261103T100000
+SUMMARY:TC LAS — TD2 — UE 14 : Biochimie - Protides\, enzymes
+DESCRIPTION:TD2 UE 14 : Biochimie - Protides\, enzymes 8h-10h G1 : S.JAISSON G2 : D.MAROT G3 : H.MORJANI
+END:VEVENT
+BEGIN:VEVENT
+UID:996c803a-75da-4707-bc00-bc22233f3eda@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261103T101500
+DTEND;TZID=Europe/Paris:20261103T121500
+SUMMARY:TC LAS — TD2 — UE 14 : Biochimie - Protides\, enzymes
+DESCRIPTION:TD2 UE 14 : Biochimie - Protides\, enzymes 10h15-12h15 G4 :D.MAROT G5 : S.JAISSON G6 : JB.OUDART
+END:VEVENT
+BEGIN:VEVENT
+UID:b4390e12-2e12-436f-9e53-ba3f73fbe950@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261103T133000
+DTEND;TZID=Europe/Paris:20261103T153000
+SUMMARY:TC LAS — TD3 — UE13 : Histologie
+DESCRIPTION:TD3 UE13 : Histologie Tissus musculaires et nerveux 13h30-15h30: G7\, 8 et 9 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:012b9e0c-663e-4158-97cb-9ba4719fbe97@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261103T154500
+DTEND;TZID=Europe/Paris:20261103T174500
+SUMMARY:TC LAS — TD3 — UE13 : Histologie
+DESCRIPTION:TD3 UE13 : Histologie Tissus musculaires et nerveux 15h45-17h45: G10\, 11 et 12 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:dc6478d7-9038-4951-beef-9609224002e6@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261109T133000
+DTEND;TZID=Europe/Paris:20261109T153000
+SUMMARY:TC LAS — TD2 — UE 14 : Biochimie - Protides\, enzymes
+DESCRIPTION:TD2 UE 14 : Biochimie - Protides\, enzymes 13h30-15h30 G7 :D.MAROT G8 : JB.OUDART G9 : L.RAMONT
+END:VEVENT
+BEGIN:VEVENT
+UID:9d536fd5-6d24-46e9-a2b7-5e1f7c5dbe6d@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261109T133000
+DTEND;TZID=Europe/Paris:20261109T153000
+SUMMARY:TC LAS — TD3 — UE13 : Histologie
+DESCRIPTION:TD3 UE13 : Histologie Tissus musculaires et nerveux 13h30-15h30: G13\, 14 et 15 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:44a42fe4-c984-4c13-9676-bc1598b84e61@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261109T154500
+DTEND;TZID=Europe/Paris:20261109T174500
+SUMMARY:TC LAS — TD2 — UE 14 : Biochimie - Protides\, enzymes
+DESCRIPTION:TD2 UE 14 : Biochimie - Protides\, enzymes 15h45-17h45 G10 : L.RAMONT G11 : JB.OUDART G12 : S.JAISSON
+END:VEVENT
+BEGIN:VEVENT
+UID:4a3f1fb3-cdbb-4047-8b31-83a9237b9e44@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261109T154500
+DTEND;TZID=Europe/Paris:20261109T174500
+SUMMARY:TC LAS — TD3 — UE13 : Histologie
+DESCRIPTION:TD3 UE13 : Histologie Tissus musculaires et nerveux 15h45-17h45: G16\, 17 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:f0627be2-526e-4720-9ee5-e976951e0521@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261116T090000
+DTEND;TZID=Europe/Paris:20261116T103000
+SUMMARY:TC LAS — TD2 — UE 14 : Chimie
+DESCRIPTION:TD2 UE 14 : Chimie 9h00-10h30 G1 : P. LAMEIRAS G2 : H. BERBER G3 : E. BOURGUET
+END:VEVENT
+BEGIN:VEVENT
+UID:bf9b7627-8756-4870-923a-b8891cbf5ac1@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261116T104500
+DTEND;TZID=Europe/Paris:20261116T121500
+SUMMARY:TC LAS — TD2 — UE 14 : Chimie
+DESCRIPTION:TD2 UE 14 : Chimie 10h45-12h15 G4 : P. LAMEIRAS G5 : H. BERBER G6 : E. BOURGUET
+END:VEVENT
+BEGIN:VEVENT
+UID:c023fb6c-5357-4bbd-8e2f-2e406a666a69@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261116T133000
+DTEND;TZID=Europe/Paris:20261116T153000
+SUMMARY:TC LAS — TD2 — UE 14 : Biochimie - Protides\, enzymes
+DESCRIPTION:TD2 UE 14 : Biochimie - Protides\, enzymes 13h30-15h30 G13 : H.MORJANI G14 : JB.OUDART G15 : D.MAROT
+END:VEVENT
+BEGIN:VEVENT
+UID:404e0ea5-72de-4d7b-b7fd-69175d4fa441@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261116T133000
+DTEND;TZID=Europe/Paris:20261116T153000
+SUMMARY:TC LAS — TD5/TD6 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD5/TD6 UE 14 : Biologie Cellulaire Noyau-Cycle cellulaire 13h30-15h30: G1\, 2\,3\,4 V DALSTEIN / A TRUSSARDI
+END:VEVENT
+BEGIN:VEVENT
+UID:a93db2aa-1b15-431e-8e95-1896a59de8a4@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261116T154500
+DTEND;TZID=Europe/Paris:20261116T174500
+SUMMARY:TC LAS — TD2 — UE 14 : Biochimie - Protides\, enzymes
+DESCRIPTION:TD2 UE 14 : Biochimie - Protides\, enzymes 15h45-17h45 G16 : S.JAISSON G17 : L.RAMONT 18 (zoom) : H.MORJANI
+END:VEVENT
+BEGIN:VEVENT
+UID:fef12f50-2d3d-4f1d-a171-fe11b476a359@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261116T154500
+DTEND;TZID=Europe/Paris:20261116T174500
+SUMMARY:TC LAS — TD5/TD6 — UE 14 : Biologie Cellulaire
+DESCRIPTION:TD5/TD6 UE 14 : Biologie Cellulaire Noyau-Cycle cellulaire 15h45-17h45: G5\,6\,7\,8 V DALSTEIN / A TRUSSARDI
+END:VEVENT
+BEGIN:VEVENT
+UID:916c7cc1-7dbb-49f4-98c8-1467c3b85b55@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:TC LAS — EXAMEN BLANC
+DESCRIPTION:EXAMEN BLANC 10h à 11h Pôle Santé
+END:VEVENT
+BEGIN:VEVENT
+UID:359fa19a-42dc-459d-989e-9fa1a0eaf835@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261117T133000
+DTEND;TZID=Europe/Paris:20261117T150000
+SUMMARY:TC LAS — TD2 — UE 14 : Chimie
+DESCRIPTION:TD2 UE 14 : Chimie 13h30-15h G7 : P. LAMEIRAS G8 : H. BERBER G9 : E. BOURGUET
+END:VEVENT
+BEGIN:VEVENT
+UID:936085ba-6fa0-4002-97ea-3572ece2d967@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261117T151500
+DTEND;TZID=Europe/Paris:20261117T164500
+SUMMARY:TC LAS — TD2 — UE 14 : Chimie
+DESCRIPTION:TD2 UE 14 : Chimie 15h15-16h45 G10 : P. LAMEIRAS G11 : H. BERBER G12 : E. BOURGUET
+END:VEVENT
+BEGIN:VEVENT
+UID:7e065862-a4c1-4f2c-829e-00cf7e6acc11@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261123T080000
+DTEND;TZID=Europe/Paris:20261123T100000
+SUMMARY:TC LAS — CM7 — UE 13 : Physiologie
+DESCRIPTION:CM7 UE 13 : Physiologie 8h-10h G.LORON Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:c6be5d3c-6d70-482e-8a15-c33ca3793e24@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261123T103000
+DTEND;TZID=Europe/Paris:20261123T120000
+SUMMARY:TC LAS — TD4 — UE 13 : Histologie
+DESCRIPTION:TD4 UE 13 : Histologie Bilan sur l'histologie générale 10h30-12h: G18 (Zoom) S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:0f13e0d8-c74d-4e51-8702-e2f40eea72d8@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261123T130000
+DTEND;TZID=Europe/Paris:20261123T143000
+SUMMARY:TC LAS — TD4 — UE 13 : Histologie
+DESCRIPTION:TD4 UE 13 : Histologie Bilan sur l'histologie générale 13h-14h30 : G13\, 14 et 15 14h45-16h15 : G4\, 5 et 6 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:630398da-44a3-4963-9517-d3234cb66a29@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261123T144500
+DTEND;TZID=Europe/Paris:20261123T161500
+SUMMARY:TC LAS — TD4 — UE 13 : Histologie
+DESCRIPTION:TD4 UE 13 : Histologie Bilan sur l'histologie générale 13h-14h30 : G13\, 14 et 15 14h45-16h15 : G4\, 5 et 6 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a085a5-5d47-4275-8438-52343d72db82@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261123T163000
+DTEND;TZID=Europe/Paris:20261123T180000
+SUMMARY:TC LAS — TD4 — UE 13 : Histologie
+DESCRIPTION:TD4 UE 13 : Histologie Bilan sur l'histologie générale 16h30-18h : G1\, 2 et 3 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:ba2c979a-3710-4927-a505-2d47390523fc@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261123T180000
+DTEND;TZID=Europe/Paris:20261123T200000
+SUMMARY:TC LAS — TD — UE 13 : Anatomie
+DESCRIPTION:TD UE 13 : Anatomie Séquence 1 à 4 18h-20h M. LABROUSSE Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:9e777bf5-318c-4313-864c-6e3b1f23b7b1@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261124T130000
+DTEND;TZID=Europe/Paris:20261124T143000
+SUMMARY:TC LAS — TD4 — UE 13 : Histologie
+DESCRIPTION:TD4 UE 13 : Histologie Bilan sur l'histologie générale 13h-14h30 : G16\, 17\, 10 14h45-16h15 : G11\, 12 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:6e051363-778e-457f-bbfa-b99126579bd1@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261124T133000
+DTEND;TZID=Europe/Paris:20261124T150000
+SUMMARY:TC LAS — TD2 — UE 14 : Chimie
+DESCRIPTION:TD2 UE 14 : Chimie 13h30-15h G13 : P. LAMEIRAS G14 : H. BERBER G15 : E. BOURGUET
+END:VEVENT
+BEGIN:VEVENT
+UID:d33ea10b-b6d2-4991-b4ee-fec6a0431764@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261124T144500
+DTEND;TZID=Europe/Paris:20261124T161500
+SUMMARY:TC LAS — TD4 — UE 13 : Histologie
+DESCRIPTION:TD4 UE 13 : Histologie Bilan sur l'histologie générale 13h-14h30 : G16\, 17\, 10 14h45-16h15 : G11\, 12 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:a8caf676-34d7-4775-9163-a6f5b60f7802@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261124T151500
+DTEND;TZID=Europe/Paris:20261124T164500
+SUMMARY:TC LAS — TD2 — UE 14 : Chimie
+DESCRIPTION:TD2 UE 14 : Chimie 15h15-16h45 G16 : P. LAMEIRAS G17 : H. BERBER G18 (zoom) : E. BOURGUET
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee1057f-2b88-4036-9f12-a70d92b8a401@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261124T163000
+DTEND;TZID=Europe/Paris:20261124T180000
+SUMMARY:TC LAS — TD4 — UE 13 : Histologie
+DESCRIPTION:TD4 UE 13 : Histologie Bilan sur l'histologie générale 16h30-18h : G7\, 8 et 9 S.CAUDROY / V.DORMOY
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee829ba-a32b-411c-8f39-de7326786b62@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261124T180000
+DTEND;TZID=Europe/Paris:20261124T200000
+SUMMARY:TC LAS — TD — UE 13 : Anatomie
+DESCRIPTION:TD UE 13 : Anatomie Séquence 5 à 8 18h-20h M. LABROUSSE Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ce00a5-c90b-4536-8984-9db598821d76@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261130T080000
+DTEND;TZID=Europe/Paris:20261130T100000
+SUMMARY:TC LAS — CM8 — UE 13 : Physiologie
+DESCRIPTION:CM8 UE 13 : Physiologie 8h-10h G.LORON Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:1bb80529-ad96-45bc-85c5-cfe6b05bbfa9@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261130T180000
+DTEND;TZID=Europe/Paris:20261130T200000
+SUMMARY:TC LAS — TD — UE 13 : Anatomie - thorax
+DESCRIPTION:TD UE 13 : Anatomie - thorax 18h-20h Y. RENARD Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:0c8c4bc7-2738-4a60-ada8-b22fe1631ccb@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;TZID=Europe/Paris:20261201T180000
+DTEND;TZID=Europe/Paris:20261201T200000
+SUMMARY:TC LAS — TD — UE 13 : Anatomie - cœur abdomen
+DESCRIPTION:TD UE 13 : Anatomie - cœur abdomen 18h-20h Y. RENARD Tous les groupes - ZOOM
+END:VEVENT
+BEGIN:VEVENT
+UID:214b22bf-097a-45fb-b4a7-b65e1756f258@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:TC LAS — REVISIONS
+DESCRIPTION:REVISIONS
+END:VEVENT
+BEGIN:VEVENT
+UID:7f294e4c-c4c3-4ab5-9cbc-55a7c0e415ca@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:TC LAS — REVISIONS
+DESCRIPTION:REVISIONS
+END:VEVENT
+BEGIN:VEVENT
+UID:7dc59a4e-d7d6-4128-9b9b-9d707a6e78ec@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:TC LAS — EXAMENS
+DESCRIPTION:EXAMENS
+END:VEVENT
+BEGIN:VEVENT
+UID:d6c9dcfd-f443-4ead-b601-7772d8c0d6cc@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:TC LAS — EXAMENS
+DESCRIPTION:EXAMENS
+END:VEVENT
+BEGIN:VEVENT
+UID:fc7ded42-ada0-4374-96e3-b54e3ba5f5c2@chatgpt
+DTSTAMP:20260830T185952
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270104
+SUMMARY:TC LAS — Pause pédagogique de Noël
+DESCRIPTION:Pause pédagogique de Noël
+END:VEVENT
+END:VCALENDAR
